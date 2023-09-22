@@ -1,1 +1,2 @@
 # my-first-repo
+My name is Isaiah Hickerson but i go by Zae. I am from San Diego, California and i moved to LA at the age of 18 for 5 years. I am a future software engineer and I currently attend Marcy Lab School.
